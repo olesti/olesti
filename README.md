@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rhino_Cnc_Layer**
 
-- 💬 Ask me about **RhinoCommon(C#), .Net Framework-Core, Nodejs, Arduino, Siemens Cnc**
+- 💬 Ask me about **RhinoCommon(C#), .Net Framework-Core, Nodejs, Arduino, Siemens Cnc Projects**
 
 - 📫 How to reach me **atalaysoftware@gmail.com**
 
