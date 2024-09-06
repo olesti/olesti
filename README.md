@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yiğit Atalay</h1>
 <h3 align="center">A software developer who constantly improves himself in Turkey.</h3>
 
-- 🔭 I’m currently working on **Rhino_Cnc_Layer**
+- 🔭 I'm currently managing an ERP web application project using **Typescript** and **Supabase**.
 
-- 💬 Ask me about **RhinoCommon(C#), .Net Framework-Core, Nodejs, Arduino, Siemens Cnc Projects**
+- 💬 Ask me about **ERP Website,Liquid,Javascript,Typescript,RhinoCommon(C#), .Net Framework-Core, Nodejs, Siemens Cnc Projects**
 
-- 📫 How to reach me **atalaysoftware@gmail.com**
+- 📫 How to reach me **ataly08@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yigitatalay/](https://www.linkedin.com/in/yigitatalay/)
 
